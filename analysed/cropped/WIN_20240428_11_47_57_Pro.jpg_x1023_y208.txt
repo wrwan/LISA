@@ -1,0 +1,7 @@
+Description: The person is lying on their back parallel to the edge of a damaged road with visible signs of debris and cracked pavement around. The person’s arms are positioned towards their chest.
+
+Threat: The immediate environment presents a moderate threat due to the proximity to debris and damaged infrastructure. The uneven surface and potential for further collapse or falling debris pose additional risks.
+
+Rating: 5/10
+
+Recommendation: Emergency services should be alerted immediately to assess the person's medical state. Ensure the area is secured to prevent further debris from causing harm. Move the person away from the damaged road to a safer, more stable location for medical evaluation.

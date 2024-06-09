@@ -1,0 +1,7 @@
+Description: The photo shows a person lying face-down on a cracked road surface with visible small debris around. The environment is clear of large rubble but shows significant road damage.
+
+Threat: The primary threat to the person is the potential for secondary injuries from the road's damaged surface, such as abrasions or further physical trauma. There are no immediate large hazards nearby, but the person may be unconscious or injured.
+
+Rating: 4/10
+
+Recommendation: Send emergency responders immediately to assess the person's physical condition and provide medical assistance. Ensure the area is clear of potential secondary dangers such as moving vehicles or unstable structures nearby.

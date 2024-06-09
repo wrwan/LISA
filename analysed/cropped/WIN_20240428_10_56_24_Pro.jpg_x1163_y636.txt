@@ -1,0 +1,7 @@
+Description: The image shows an individual lying on an asphalt road. The person appears to be in a supine position with arms bent, likely holding a device close to their face. The surrounding area includes sections of cracked road and debris, but no substantial rubble or collapsed structures are immediately visible.
+
+Threat: Minimal immediate threat to human life. Environmental risks are low due to the relatively clear area around the person. However, potential secondary risks could include unstable ground or approaching vehicles if the road is not closed off.
+
+Rating: 3/10
+
+Recommendation: Ensure the area is cordoned off to prevent vehicular access. Conduct a thorough check for any unstable ground or hidden debris and provide medical attention if needed.

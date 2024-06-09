@@ -1,0 +1,7 @@
+Description: The person is lying face-up in the middle of a road. The surrounding area appears to be urban with damaged infrastructure visible near the person. There is scattered debris, but no large rubble or collapsed buildings directly adjacent.
+
+Threat: While the road itself looks mostly clear, the presence of debris indicates potential instability in the surrounding structures. There is a risk of injury from falling objects or being struck by vehicles if road access isn’t controlled. Additionally, the person’s pose suggests possible injury or incapacity.
+
+Rating: 5/10
+
+Recommendation: Immediate medical personnel should be dispatched to assess the person’s condition. Traffic in the area should be controlled or diverted. Clear debris to prevent further hazards and ensure no structurally compromised buildings nearby pose additional risks.

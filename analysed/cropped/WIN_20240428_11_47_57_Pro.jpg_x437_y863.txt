@@ -1,0 +1,7 @@
+Description: The aerial view shows a person lying on a pile of rubble amidst debris. Surrounding structures are heavily damaged, with loose building materials scattered around. The individual's pose suggests they may be injured or unconscious.
+
+Threat: High threat due to unstable debris and potential for further collapse. Surrounding rubble can cause injury if it shifts or collapses. Sharp materials could inflict harm, and there is a risk of being trapped further. Immediate medical attention may be necessary.
+
+Rating: 9/10
+
+Recommendation: Deploy emergency response teams immediately to carefully extricate the person, ensuring stabilization of surrounding rubble. Provide medical personnel ready for potential injuries. Use drones to continuously monitor the area for stability.

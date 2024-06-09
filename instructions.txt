@@ -1,0 +1,6 @@
+Run both Image Analysis and People Finder.
+
+You need to run the image picture thing and save the images into input Folder. Then the Image Analysis and People 
+finder will automatically do the rest.
+
+Only open people finder, other ones you can click
